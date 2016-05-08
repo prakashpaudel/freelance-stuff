@@ -1,0 +1,88 @@
+.page-heading { font-size: 54px; text-align: center; text-transform: uppercase;}
+.page-heading .title-left { color: #1e75bc; padding-right: 13px;}
+.page-heading .title-right {color: #f1592b;}
+.page-heading .line-dot .dot {border: 7px solid #393837;}
+.page-subheading {font-size: 1.4em;}
+
+.header {background: url('../images/why-bg-new.png');}
+
+#guess { text-align: center; font-family: 'Montserrat' !important; color: #000;}
+#guess h2 {font-size: 2em; text-transform: uppercase; color: #000;}
+#guess p {font-size: 1.2em;}
+
+.orange-bg {background: #f1592b; position: relative; padding-bottom: 0px;}
+.orange-bg p {font-size: 1.3em !important; color: #fff;}
+.orange-bg h2 {font-size: 1.8em; color: #fff;}
+.orange-bg img {margin-bottom: 0px; padding-bottom: 0px;}
+
+.orange-bg .cols-2 .cols.inner {padding-bottom: 0px;}
+
+#facts .eighty {font-size: 1.6em;}
+#facts .eighty, #facts .eighty strong {color: #1e75bc;}
+#facts .eighty:nth-of-type(1){padding-left: 4%; padding-right: 2%; color: #f1592b;}
+#facts .eighty:nth-of-type(1) strong {color: #f1592b;}
+
+#entrepreneur {overflow-y: hidden;}
+
+#owner .eighty , #entrepreneur .eighty {font-size: 1.2em; text-align: center;}
+#owner .clear, #entrepreneur .clear {height: 40px;}
+
+.container {display: block; margin: auto; width: 70%; position: relative;}
+.twenty, .eighty { float: left; padding: 0; margin: 0;}
+.twenty img {margin: auto; display: block;}
+.twenty {width: 20%;}
+.eighty {width: 80%; padding-left: 5%;padding-top: 30px;}
+.eighty:nth-of-type(1){padding-left: 0px; padding-right: 5%;}
+.separator {max-width: 90%; border-bottom: 2px solid #ccc; clear: both; margin: 40px auto;} 
+
+#facts .eighty {padding-top: 70px; padding-left: 2%; padding-right: 2%;}
+#facts .twenty {min-width: 196px;}
+#facts .twenty img {min-width: 196px; min-height: 195px;}
+
+.block-heading {width: 100%;padding: 0;margin: 0;}
+.block-heading .left-line, .block-heading .right-line {width: 19%;float: left; margin-top: 35px;}
+.block-heading .left-line {margin-right: 1%;}
+.block-heading .right-line {margin-left: 1%;}
+.block-heading .head, .block-heading .head {float: left; width: 60%; color: #fff !important; text-align: center; font-size: 1.5em; line-height: 70px; text-transform: uppercase;}
+.block-heading .head strong {color: #fff !important;}
+.block-heading.blue .head {background: #1e75bc;}
+.block-heading.blue .left-line, .block-heading.blue .right-line {border-bottom: 2px solid #1e75bc}
+
+.block-heading.red .head {background: #f1592b;}
+.block-heading.red .left-line, .block-heading.red .right-line {border-bottom: 2px solid #f1592b}
+
+.avatar img {position: absolute; top: 8%; width: 250px;}
+
+.blue-world {background: url('../images/blue-world.png'); background-size: cover; background-position: center;}
+.blue-world p {font-size: 1.4em; color: #fff; width: 80%; display: block; margin: auto; text-align: center; padding: 20px 0px}
+.blue-world strong {color: #fff; font-size: 1.1em;}
+
+.girl-eighty {width: 70%;}
+#girl-avatar {position: absolute; bottom: -95px; right: 20px; width: 30%;}
+#girl-avatar img {position: static; top: inherit; width: 300px;}
+
+
+@media(max-width: 1175px){
+	#facts .eighty {width: 65%;}
+}
+
+@media(max-width: 1418px){
+	#facts .eighty {width: 75%;}
+}
+
+@media(max-width: 675px){
+	#facts .eighty {width: 55%; padding-top: 0px;}
+}
+
+@media(max-width: 600px){
+	.orange-bg {text-align: center;}
+	.eighty, .twenty {width: 100% !important; float: none; text-align: center;}
+	.twenty img {margin: 20px auto;}
+	.block-heading .left-line, .block-heading .right-line {display: none;}
+	.block-heading .head {display: block; margin: auto; width: 90%;float: none;}
+	.avatar img{position: initial; }
+	#girl-avatar {position: static !important; margin-bottom: -110px;}
+	#guess p {width: 80%; margin: auto; display: block;}
+}
+
+

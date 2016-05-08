@@ -1,0 +1,39 @@
+.header {background: url('../images/process_bg-new.png');}
+
+.page-heading { font-size: 54px; text-align: center; text-transform: uppercase;}
+.page-heading .title-left { color: #1e75bc; padding-right: 13px;}
+.page-heading .title-right {color: #f1592b;}
+.page-heading .line-dot .dot {border: 7px solid #393837;}
+.page-subheading {font-size: 1.4em; width: 50%; margin: auto; text-align: center;}
+
+
+#process {position: relative;}
+
+.cols-3 {width: 65%; z-index: 2; position: relative;}
+.cols-3 .cols.inner {width: 32%; padding: 2%; float: left; font-size: 1.3em;}
+.cols.inner h3 {font-family: 'Roboto'; text-align: center; font-size: 1.1em; height: 70px; word-break: break-word;}
+.cols.inner .cols-blue-heading { color: #1e75bc; }
+.cols.inner .cols-red-heading{ color: #ff4428; }
+.cols.inner p {color: #00172e; text-align: center; font-size: 0.8em;}
+
+#started {background: url('../images/typing-bg-new.png'); background-size: cover; background-position: bottom; min-height: 395px;}
+#started p {font-size: 1.15em; width: 80%; margin: auto; text-align: center;}
+#started p:first-of-type {margin-bottom: 40px;}
+#started a {font-size: 1.2em; width: 200px; padding: 8px;}
+
+#avatar {
+    position: absolute; right: -60px; width: 400px; top: 43%; z-index: 0;
+}
+
+@media(max-width: 1060px){
+    #avatar {display: none;}
+    .cols-3 {width: 70%;}
+}
+
+@media(max-width: 645px){
+	.page-heading {font-size: 60px !important;}
+}
+
+@media(max-width: 460px){
+	.page-heading {font-size: 46 px !important;}
+}

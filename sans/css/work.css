@@ -1,0 +1,65 @@
+.header {background: url('../images/our-work-new.png');}
+
+.page-heading { font-size: 54px; text-align: center; text-transform: uppercase;}
+.page-heading .title-left { color: #1e75bc; padding-right: 13px;}
+.page-heading .title-right {color: #f1592b;}
+.page-heading .line-dot .dot {border: 7px solid #393837;}
+.page-subheading {font-size: 1.4em; width: 50%; margin: auto; text-align: center;}
+
+/*.cols.inner {min-height: 40vh; position: relative; overflow: hidden;}*/
+/*.cols.inner img {width: 70%; display: block; max-width: 600px; padding-top: 100px;} */
+/*.cols.inner img {max-width: 80%; position: absolute; top: 50%; left: 50%; max-height: 1000px;}*/
+
+
+.cols.inner.img-contain{
+    height: 300px;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+}
+
+.cols.inner img {
+    max-width: 100%;
+    margin-top: -15%;
+}
+.cols-2 {
+    width: 100%;
+}
+
+.cols-2 .cols.inner {
+	float: none !important;
+}
+
+.cols.inner {
+    width: 60% !important;
+    margin: auto;
+    float: none !important;
+}
+
+.cols.inner h4 {font-family: 'Montserrat'; text-align: left; font-size: 2em; word-break: break-word;}
+.cols.inner .blue { color: #1e75bc; }
+.cols.inner .red { color: #ff4428; }
+.cols.inner p {color: #000; text-align: justify; font-size: 1em;}
+.cols.inner.right {float: right;}
+
+.cols.inner ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#started {background: url('../images/typing-bg-new.png'); background-size: cover; background-position: bottom; min-height: 395px;}
+#started p {font-size: 1.15em; width: 80%; margin: auto; text-align: center;}
+#started p:first-of-type {margin-bottom: 40px;}
+#started a {font-size: 1.2em; width: 200px; padding: 8px;}
+
+
+@media(max-width: 800px){
+	.cols.inner img {margin-top: -100px;}
+}
+
+@media(max-width: 600px){
+	.cols.inner {min-height: 0}
+	.cols.inner img {width: 100%; padding-top: 0px; position: static; margin-top: 0px !important; margin-left: 0px !important;}
+	.cols.inner h4 {text-align: center;}
+    .cols.inner.img-contain {height: auto;}
+}

@@ -1,0 +1,29 @@
+= 1.0.0 =
+* Initial Theme Release
+
+= 1.0.1 =
+* Added more styles for form select elements
+
+= 1.0.2 =
+* Added HTML5 video player
+* Added self hosted video solutions for home page hero section, portfolio items and video post format
+
+= 1.0.3 =
+* Addressed an issue with the jQuery slideshow in the blog would fail to appear
+* Addressed an issue with the blog trackback function returning an error
+* Added widget area to the footer
+* Added support for drop down menus one level deep
+
+= 1.0.4 =
+* Fixed an issue with the portfolio animation in WordPress 3.5
+
+= 1.1.0 =
+* Removed built in Flickr widget
+* Removed built in Twitter widget
+* Removed plugin notifier
+* Updated to latest version of Font Awesome
+* Updated to Flexslider 2.2.2
+* Removed meta boxes for audio and video posts
+
+= 1.1.1 =
+* Updated deprecated code for WP 4.3

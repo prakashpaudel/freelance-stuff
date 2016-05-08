@@ -1,0 +1,60 @@
+.page-heading { font-size: 54px; text-align: center; text-transform: uppercase;}
+.page-heading .title-left { color: #1e75bc; padding-right: 13px;}
+.page-heading .title-right {color: #f1592b;}
+.page-heading .line-dot .dot {border: 7px solid #393837;}
+.page-subheading {font-size: 1.4em; padding: 1.5%; line-height: 2.5em;}
+
+.header {background: url('../images/about-bg-new.png'); background-size: cover;}
+
+.blue-section { background: url('../images/blue-section-new.png'); background-size: cover; background-position: center; padding: 100px 0;}
+.blue-section h2 {width: 70%; margin: auto; text-align: center; color: #fff; font-family: 'Roboto'; font-weight: 300; font-size: 2em;}
+
+/* Who are we? */
+#who {background: #fafafa;}
+#who .blue-orange .line-dot .dot {border: 7px solid #fafafa;}
+#chalkboard {background: url('../images/chalkboard.png'); background-size: cover; background-position: center; max-width: 773px; height: 444px; margin: auto; position: relative;}
+#chalk-avatar img { height: 350px; position: absolute; bottom: -45px; left: -230px; }
+.chalk-content {padding: 85px 60px 0 60px;color: #FFF;}
+.chalk-content h4 {font-size: 1.7em; color: #fff !important; font-family: 'Roboto'; text-align: center; margin-bottom: 40px; }
+.chalk-content p {font-size: 1.15em;text-align: center;}
+
+.cols-3 .cols.inner {width: 32%; padding: 2%; float: left;}
+.cols.inner h3 {font-family: 'Roboto'; text-align: center; font-size: 1.2em; height: 70px; word-break: break-word;}
+.cols.inner .cols-blue-heading { color: #1e75bc; }
+.cols.inner .cols-red-heading{ color: #ff4428; }
+.cols.inner p {color: #00172e; text-align: center; font-size: 1em;}
+
+#testimonials {background: url('../images/testimonials-bg.png'); background-size: cover; background-position: bottom; min-height: 395px;}
+#testimonials p {width: 80%; margin: auto; display: block; text-align: center; font-size: 1.1em;}
+#testimonials p:first-of-type {margin-bottom: 20px;}
+#testimonials p:nth-child(3) {width: 60%;}
+
+#started {background: url('../images/typing-bg-new.png'); background-size: cover; background-position: bottom; min-height: 395px;}
+#started p {font-size: 1.15em; width: 80%; margin: auto; text-align: center;}
+#started p:first-of-type {margin-bottom: 40px;}
+#started a {font-size: 1.2em; width: 200px; padding: 8px;}
+
+#why-work {position: relative;}
+
+.work-avatar {width: 300px; position: absolute; top: 45%; right: 0px;}
+
+
+@media(max-width: 950px){
+    .work-avatar {display: none;}
+}
+
+@media(max-width: 1085px){
+	#chalk-avatar {display: none;}
+}
+
+@media(max-width: 600px){
+	.page-subheading {padding: 1.5% 12%;}
+}
+
+@media(max-width: 400px){
+	.chalk-content {padding: 30px 60px 0 60px;}
+}
+
+@media(max-width: 395px){
+	#chalkboard {height: inherit; padding-bottom: 12%; padding-top: 11px;}
+}

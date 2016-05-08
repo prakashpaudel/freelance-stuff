@@ -1,0 +1,231 @@
+.header {background: url('../images/report-bg-new.png'); padding: 20vh 0;}
+
+.page-heading { font-size: 54px;text-align: center; text-transform: uppercase; }
+.page-heading .title-left { color: #1e75bc;  font-weight: 300; }
+.page-heading .title-right {color: #f1592b; }
+.page-heading .line-dot .dot {border: 7px solid #393837;}
+.page-subheading {font-size: 1.4em; width: 50%; margin: auto; text-align: center;}
+.page-subheading strong{ color: #fff;}
+
+/*separator */
+.line-dot { }
+.line-dot .line {border-bottom: 1px solid #fff;}
+.line-dot .dot {background: #fff;}
+
+
+#report {
+	position: relative;
+	background: #f9f9f9;
+	width: 100%;
+	overflow: hidden;
+}
+#report-img {
+	position: absolute;
+	z-index: 1;
+	right: 110px;
+	bottom: 0px;
+}
+#report-img img{
+	float: left;
+	max-width: 321px;
+	width: 100%;
+}
+#report-content{
+	position: relative;
+	z-index: 2;
+	color: #f1592b;
+	font-size: 34px;
+	line-height: 44px;
+	max-width: 960px;
+	margin:0 auto;
+	text-align: center;
+}
+#report-content strong {
+	color: #f1592b;
+}
+
+#download_button {
+	display: block; 
+	margin: auto; 
+	border-bottom: none;
+}
+
+#download_button img {
+	display: block; 
+	margin: auto;
+}
+
+.landing-body-text {
+	color: #000000;	
+	font-size: 22px;
+}
+
+.blue-world {background: url('../images/blue-world.png'); background-size: cover; background-position: center;}
+.blue-world p {font-size: 1.4em; color: #fff; width: 80%; display: block; margin: auto; text-align: center; padding: 20px 0px}
+.blue-world strong {color: #fff; font-size: 1.1em;}
+
+.mailchimp {
+	background: #ebebeb;
+}
+.mailchimp-inner {
+	padding: 60px 0;
+	font-size: 18px;
+	max-width: 620px;
+	margin: 0 auto;
+	color:;
+}
+
+.mailchimp span {
+	font-size: 18px;
+	line-height: 36px;
+	color: #607276;
+	font-weight: normal;		
+}
+
+.mailchimp input[type=text],
+.mailchimp input[type=email],
+.mailchimp input[type=url],
+.mailchimp input[type=password],
+.mailchimp textarea {
+	border: 1px solid #8f8f8f;
+	font-size: 18px;
+	line-height: 36px;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	width: 100%;
+	margin: 20px 0 30px;	
+}
+
+
+.mailchimp input[type=text]:focus,
+.mailchimp input[type=email]:focus,
+.mailchimp input[type=url]:focus,
+.mailchimp input[type=password]:focus,
+.mailchimp textarea:focus {
+	border-color: #636363;
+	color: #2e2d2e;
+}
+
+
+.mailchimp-button,
+.mailchimp-btn{
+	max-width: 341px;
+	width: auto;
+	margin: 30px auto;
+}
+
+.mailchimp-button input,
+.mailchimp-btn input{
+	max-width: 100%;	
+}
+
+.mailchimp a {
+	cursor: pointer;
+}
+
+.ul-no-style,
+.ul-no-style li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.ul-no-style li {
+	padding: 0 0 30px;
+}
+
+.red { color: #f30;}
+
+.yikes-easy-mc-success-message {
+	border: 3px solid #7ad276;
+	color: #08b000;
+	background: #f5fff4;	
+	padding: 10px 15px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+.yikes-easy-mc-error-message {
+	border: 3px solid #eb6748;
+	color: #ea2c00;
+	background: #fff9f7;	
+	padding: 10px 15px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+@media(max-width: 1580px){
+	.page-heading .title-left,
+	.page-heading .title-right{ font-size: 64px; }
+	#report-img { right: 0;}	
+}
+
+@media(max-width: 1384px){
+	#report-img { width: 300px; right: -50px; }		
+}
+
+
+@media(max-width: 1200px){
+	.header {padding:15vh 0;}
+	.page-heading { line-height: 54px; }
+	.page-heading .title-left,
+	.page-heading .title-right{ font-size: 54px; line-height: 54px; }
+	
+	.line-dot { margin-top: 20px; }
+	#report-content{ width: 630px; padding: 70px 0;}
+	#report-img { width: 280px; right: -50px;}	
+}
+
+@media(max-width: 1130px){
+	#report-content{ padding: 50px 0 0;}
+	#report-img { position: static;  margin: 0 auto;}		
+}
+
+@media(max-width: 675px){
+	#facts .eighty {width: 55%; padding-top: 0px;}
+	.mailchimp-inner {
+		padding: 60px 0;
+		width: auto; margin: 0 30px;
+	}
+	
+	#report-content{ width: auto; margin: 0 30px; padding: 60px 0 40px; font-size: 24px; line-height: 26px;}
+	.page-subheading {width: 80%; }
+	#report-img { position: static; width: 240px; margin: 0 auto;}	
+
+	.landing-body-text {
+		color: #000000;	
+		font-size: 22px;
+	}
+
+}
+
+@media(max-width: 480px){
+	.page-heading .title-left,
+	.page-heading .title-right{ font-size: 34px; line-height: 34px; }
+	
+	#facts .eighty {width: 55%; padding-top: 0px;}
+	.mailchimp-inner {
+		padding: 60px 0;
+		width: auto; margin: 0 30px;
+	}
+	
+	#report-content{ width: auto; margin: 0 30px; padding: 50px 0 0;}
+	#report-img { position: static; width: 200px; margin: 0 auto;}	
+	.mailchimp-button, .mailchimp-btn {	max-width: 240px;}
+	
+	.mailchimp input[type=text],
+	.mailchimp input[type=email],
+	.mailchimp input[type=url],
+	.mailchimp input[type=password],
+	.mailchimp textarea {
+		margin: 10px 0 15px;	
+	}
+
+	.landing-body-text {
+		color: #000000;	
+		font-size: 22px;
+	}
+
+}

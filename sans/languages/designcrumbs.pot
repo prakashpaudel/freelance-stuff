@@ -1,0 +1,1689 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Sans\n"
+"POT-Creation-Date: 2015-08-04 15:19-0500\n"
+"PO-Revision-Date: 2015-08-04 15:19-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18
+msgid "404 Error&#58; Page not found"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"The page you are searching for either no longer exists or has been moved. "
+"Perhaps our search form can be of some assistance."
+msgstr ""
+
+#: 404.php:35 sans-search.php:56
+msgid "More ways to Browse Content"
+msgstr ""
+
+#: 404.php:37 sans-search.php:58
+msgid ""
+"Search forms are not your thing&#63; We get that. That is why we have "
+"provided some useful links to content throughout our website."
+msgstr ""
+
+#: 404.php:41 sans-search.php:62
+msgid "Popular Search Keywords"
+msgstr ""
+
+#: 404.php:47 sans-search.php:68
+msgid "Recent Work"
+msgstr ""
+
+#: 404.php:81 includes/home/inc-hm-portfolio-all.php:94 sans-portfolio.php:118
+#: sans-search.php:102
+msgid "It looks like you do not have any portfolio items."
+msgstr ""
+
+#: 404.php:87 sans-search.php:108
+msgid " Archives by Year"
+msgstr ""
+
+#: 404.php:105 sans-search.php:126
+msgid " Archives by Month"
+msgstr ""
+
+#: comments.php:21
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:37
+#, php-format
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:61
+msgid "Comment Navigation"
+msgstr ""
+
+#: comments.php:63
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:64
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:70
+msgid "Trackbacks &#38; Pingbacks"
+msgstr ""
+
+#: comments.php:94
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:101
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:102
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:104 widgets/wap8-widget-contact.php:96
+#: widgets/wap8-widget-contact.php:110
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:105
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:106
+msgid "Your URL"
+msgstr ""
+
+#: comments.php:108
+msgid "Comment<span>&#42;</span>"
+msgstr ""
+
+#: comments.php:109
+msgid ""
+"<p>Your email address will never be published or shared. Required fields are "
+"marked with an asterisk &#40;<span>&#42;</span>&#41;.</p>"
+msgstr ""
+
+#: footer.php:113
+msgid "Copyright &#169; "
+msgstr ""
+
+#: footer.php:113
+msgid "All Rights Reserved."
+msgstr ""
+
+#: functions.php:45
+msgid ""
+"The Options Framework plugin is required for this theme to function properly."
+msgstr ""
+
+#: functions.php:45
+msgid "Install now."
+msgstr ""
+
+#: functions.php:226
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:227
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:228
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:244
+msgid "Sidebar for Index Templates"
+msgstr ""
+
+#: functions.php:245
+msgid ""
+"Drag, drop, organize and save widgets for the sidebar that will appear on "
+"your index templates."
+msgstr ""
+
+#: functions.php:256
+msgid "Sidebar for Single Templates"
+msgstr ""
+
+#: functions.php:257
+msgid ""
+"Drag, drop, organize and save widgets for the sidebar that will appear on "
+"your blog post single templates."
+msgstr ""
+
+#: functions.php:268
+msgid "Sidebar for Page Templates"
+msgstr ""
+
+#: functions.php:269
+msgid ""
+"Drag, drop, organize and save widgets for the sidebar that will appear on "
+"your page templates."
+msgstr ""
+
+#: functions.php:280
+msgid "Sidebar for Contact Page"
+msgstr ""
+
+#: functions.php:281
+msgid ""
+"Drag, drop, organize and save widgets for the sidebar that will appear on "
+"your custom contact page template."
+msgstr ""
+
+#: functions.php:292
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:293
+msgid ""
+"Drag, drop, organize and save widgets for the footer. A maximum of three "
+"widgets are recommended."
+msgstr ""
+
+#: functions.php:406
+#, php-format
+msgid "<address>%s</address>"
+msgstr ""
+
+#: functions.php:408
+#, php-format
+msgid "%1$s &#64; %2$s"
+msgstr ""
+
+#: functions.php:408
+msgid "Comment Permalink"
+msgstr ""
+
+#: functions.php:412
+msgid "&larr; Edit"
+msgstr ""
+
+#: functions.php:414
+msgid "Reply"
+msgstr ""
+
+#: functions.php:422
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:437
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:437 lib/plugins/wap8-cpt-portfolio.php:102
+msgid "Edit"
+msgstr ""
+
+#: functions.php:464
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:564
+msgid "Custom Gravatar"
+msgstr ""
+
+#: includes/home/inc-hm-blog.php:54
+msgid "Continue &rarr;"
+msgstr ""
+
+#: includes/home/inc-hm-blog.php:57
+msgid "It seems we have not published any blog posts yet."
+msgstr ""
+
+#: includes/home/inc-hm-hero.php:252
+msgid "Play"
+msgstr ""
+
+#: includes/home/inc-hm-hero.php:252
+msgid "<i class=\"fa fa-play\"></i> <span class=\"screen-reader\">Play</span>"
+msgstr ""
+
+#: includes/home/inc-hm-hero.php:253
+msgid "Pause"
+msgstr ""
+
+#: includes/home/inc-hm-hero.php:253
+msgid ""
+"<i class=\"fa fa-pause\"></i> <span class=\"screen-reader\">Pause</span>"
+msgstr ""
+
+#: includes/home/inc-hm-hero.php:269
+msgid "Volume"
+msgstr ""
+
+#: includes/home/inc-hm-portfolio-featured.php:73
+msgid "It looks like you do not have any featured portfolio items."
+msgstr ""
+
+#: includes/misc/inc-index-titles.php:27
+msgid "Currently browsing "
+msgstr ""
+
+#: includes/misc/inc-index-titles.php:27
+msgid " Category"
+msgstr ""
+
+#: includes/misc/inc-index-titles.php:42
+msgid "Currently browsing Posts Tagged "
+msgstr ""
+
+#: includes/misc/inc-index-titles.php:52
+msgid "Currently browsing Posts Published on "
+msgstr ""
+
+#: includes/misc/inc-index-titles.php:62
+msgid "Currently browsing Posts Published "
+msgstr ""
+
+#: includes/misc/inc-index-titles.php:72
+msgid "Currently browsing Posts Published in "
+msgstr ""
+
+#: index.php:54 search.php:83
+msgid "Previous"
+msgstr ""
+
+#: index.php:55 search.php:84
+msgid "Next"
+msgstr ""
+
+#: index.php:69
+msgid "Uh oh. It looks like there aren't any posts yet."
+msgstr ""
+
+#: lib/metabox/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: lib/metabox/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: lib/metabox/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: lib/metabox/helpers/cmb_Meta_Box_types.php:150
+msgid "Add Row"
+msgstr ""
+
+#: lib/metabox/helpers/cmb_Meta_Box_types.php:178
+#: lib/metabox/helpers/cmb_Meta_Box_types.php:547
+#: lib/metabox/helpers/cmb_Meta_Box_types.php:590
+msgid "Remove"
+msgstr ""
+
+#: lib/metabox/helpers/cmb_Meta_Box_types.php:523
+#: lib/metabox/helpers/cmb_Meta_Box_types.php:563
+msgid "Add or Upload File"
+msgstr ""
+
+#: lib/metabox/helpers/cmb_Meta_Box_types.php:536
+#: lib/metabox/helpers/cmb_Meta_Box_types.php:582
+msgid "Remove Image"
+msgstr ""
+
+#: lib/metabox/helpers/cmb_Meta_Box_types.php:547
+#: lib/metabox/helpers/cmb_Meta_Box_types.php:590
+msgid "File:"
+msgstr ""
+
+#: lib/metabox/helpers/cmb_Meta_Box_types.php:547
+#: lib/metabox/helpers/cmb_Meta_Box_types.php:590
+msgid "Download"
+msgstr ""
+
+#: lib/metabox/init.php:243
+msgid "Clear"
+msgstr ""
+
+#: lib/metabox/init.php:244
+msgid "Default"
+msgstr ""
+
+#: lib/metabox/init.php:245
+msgid "Select Color"
+msgstr ""
+
+#: lib/metabox/init.php:246
+msgid "Current Color"
+msgstr ""
+
+#: lib/metabox/init.php:1185
+msgid "Save"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:20
+msgctxt "taxonomy general name"
+msgid "Services"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:21
+msgctxt "taxonomy singular name"
+msgid "Service"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:22
+msgid "Search Services"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:23
+msgid "Popular Services"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:24
+msgid "All Services"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:25
+msgid "Parent Service"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:26
+msgid "Edit Service"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:27
+msgid "Update Service"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:28
+msgid "Add New Service"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:29
+msgid "New Service"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:30
+msgid "Separate Services with commas"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:31
+msgid "Add or Remove Services"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:32
+msgid "Choose from Most Used Services"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:36 lib/plugins/wap8-cpt-portfolio.php:283
+#: lib/plugins/wap8-cpt-portfolio.php:311
+msgid "Services"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:59
+msgctxt "taxonomy general name"
+msgid "Portfolio Tags"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:60
+msgctxt "taxonomy singular name"
+msgid "Portfolio Tag"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:61
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:62
+msgid "Popular Portfolio Tags"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:63
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:64
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:65
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:66
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:67
+msgid "New Portfolio Tag"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:68
+msgid "Separate Portfolio Tags with commas"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:69
+msgid "Add or Remove Portfolio Tags"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:70
+msgid "Choose from Most Used Portfolio Tags"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:74 lib/plugins/wap8-cpt-portfolio.php:285
+#: lib/plugins/wap8-cpt-portfolio.php:312
+msgid "Portfolio Tags"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:98
+msgctxt "post type general name"
+msgid "Portfolio"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:99
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:100
+msgctxt "portfolio"
+msgid "Add New Item"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:101
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:103
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:104
+msgid "New Portfolio Item"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:105
+#: lib/plugins/wap8-cpt-portfolio.php:106
+msgid "View Portfolio Item"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:107
+msgid "Search Portfolio"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:108
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:109
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:151
+#, php-format
+msgid "Portfolio Item updated. <a href=\"%s\">View portfolio item</a>"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:152
+msgid "Custom field updated."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:153
+msgid "Custom field deleted."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:154
+msgid "Portfolio Item updated."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:156
+#, php-format
+msgid "Portfolio Item restored to revision from %s"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:157
+#, php-format
+msgid "Portfolio Item published. <a href=\"%s\">View portfolio item</a>"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:158
+msgid "Portfolio Item saved."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:159
+#, php-format
+msgid ""
+"Portfolio Item submitted. <a target=\"_blank\" href=\"%s\">Preview portfolio "
+"item</a>"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:160
+#, php-format
+msgid ""
+"Portfolio Item scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview portfolio item</a>"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:162
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:163
+#, php-format
+msgid ""
+"Portfolio Item draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"portfolio item</a>"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:183
+#: lib/plugins/wap8-cpt-portfolio.php:238
+msgid "Featured Image"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:190
+#: lib/plugins/wap8-cpt-portfolio.php:249
+#: lib/plugins/wap8-custom-metaboxes.php:37
+msgid "Portfolio Item Options"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:197
+#: lib/plugins/wap8-cpt-portfolio.php:257
+msgid "Gallery Portfolio Item"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:204
+#: lib/plugins/wap8-cpt-portfolio.php:266
+msgid "Video Portfolio Item"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:211
+#: lib/plugins/wap8-cpt-portfolio.php:274
+msgid "Audio Portfolio Item"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:218
+#: lib/plugins/wap8-cpt-portfolio.php:282
+msgid "Services &#38; Portfolio Tags"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:225
+msgid "Support &#38; User Guide"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:239
+msgid "Recommended Minimum Dimensions"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:240
+msgid ""
+"Before you upload and set an image as featured, make sure the source image "
+"meets the minimum recommended dimensions of at least 1440px wide. The height "
+"is arbitrary but the width is important if you are going to set your Case "
+"Study Type to &#147;Featured Image&#148;. Any images smaller than the "
+"recommended width may become pixelated on desktop browsers."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:241
+msgid "Recommended Aspect Ratio"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:242
+msgid ""
+"The cropping aspect ratio for portfolio thumbnails is 16&#58;9. If your "
+"source image meets this aspect ratio, your thumbnail will be resized "
+"proportionately. All other aspect ratios will be cropped from the center "
+"outwards to meet the theme&#39;s needs."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:250
+msgid ""
+"All of the Portfolio Item Options are optional except for &#147;Select Case "
+"Study Type&#148;. You will need to set one of the available five options "
+"before publishing your portfolio item. For detailed information on how to "
+"publish your portfolio items, please refer to the User Guide included with "
+"your download package."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:258
+msgid ""
+"If you have chosen to show a jQuery slideshow as your case study type, you "
+"will need to upload all of the images that will be shown in the slideshow. "
+"For detailed information on how to upload images for your gallery slideshow, "
+"please refer to the User Guide included with your download package."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:259
+msgid ""
+"Once you have set the autoplay and looping properties, you will need to set "
+"the timeout and animation speeds in milliseconds."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:259
+msgid "Convert seconds into milliseconds"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:267
+msgid ""
+"Before you can publish a video portfolio item, you will need to copy and "
+"paste the URL of the video, from either Vimeo or YouTube, into the "
+"appropriate field."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:275
+msgid ""
+"Before you can publish an audio portfolio item, you will need to copy and "
+"paste the URL of the audio files into the appropriate fields. The accepted "
+"file formats are MP3, M4A and OGG. At a minimum, you can paste either and "
+"MP3 or M4A file. Never include both of these formats at the same time. For "
+"maximum cross browser performance, we recommend including an OGG file."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:284
+msgid ""
+"Before you can publish a portfolio item, you must assign the item a service. "
+"The services are used to create the filter navigation on the portfolio page "
+"and to dynamically generate the related case studies. You can create your "
+"services here in the post editor or by clicking the Services link in the "
+"left menu under the Portfolio heading. Each item can be assigned multiple "
+"services."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:286
+msgid ""
+"If you only showing Featured Portfolio Items on your home page, you will "
+"need to assign the &#147;Home Featured&#148; portfolio tags to the item."
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:293
+msgid "Support &#38; User Guide Links"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:294
+msgid "Design Crumbs Customer Support Forum"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:309
+msgid "Portfolio Item"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:310
+msgid "Author"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:313
+msgid "Date"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:329
+msgid "services"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:336
+msgid "<i>No services.</i>"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:352
+msgid "portfolio-tags"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:359
+msgid "<i>No portfolio tags.</i>"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:376
+msgid "All"
+msgstr ""
+
+#: lib/plugins/wap8-cpt-portfolio.php:393
+#: lib/plugins/wap8-custom-metaboxes.php:76
+msgid "Services Provided"
+msgstr ""
+
+#: lib/plugins/wap8-custom-css.php:64
+msgid "Begin Sans Custom Styles from Theme Options"
+msgstr ""
+
+#: lib/plugins/wap8-custom-css.php:180
+msgid "End Sans Custom Styles from Theme Options"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:44
+msgid "Client Name"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:45
+msgid ""
+"Enter the client name associated with this project. Leave this field blank, "
+"if you do not wish to show a client name."
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:50 single-portfolio.php:99
+msgid "Client Testimonial"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:51
+msgid ""
+"Enter a client testimonial associated with this project. Leave this field "
+"blank, if you do not wish to show a client testimonial"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:56
+msgid "Client Testimonial Source"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:57
+msgid ""
+"Enter the name of the client who provided the testimonial. Leave this option "
+"blank, if you do not wish to show a name."
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:62
+msgid "Select Case Study Type"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:63
+msgid ""
+"Select the case study type for this project. If you choose &#147;jQuery "
+"Slideshow&#148; you will be required to enter additional information in the "
+"<strong>Gallery Portfolio Item</strong> metabox."
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:67
+msgid "No Hero Image"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:68
+msgid "Hero Image"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:69
+msgid "jQuery Slideshow"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:70
+msgid "Video"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:71
+msgid "Audio Only"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:72
+msgid "Audio + Cover Image"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:77
+msgid "Would you like to list the services provided&#63;"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:81
+#: lib/plugins/wap8-custom-metaboxes.php:97
+#: lib/plugins/wap8-custom-metaboxes.php:125
+#: lib/plugins/wap8-custom-metaboxes.php:135
+#: lib/plugins/wap8-custom-metaboxes.php:168
+#: lib/plugins/wap8-custom-metaboxes.php:178
+msgid "Yes"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:82
+#: lib/plugins/wap8-custom-metaboxes.php:98
+#: lib/plugins/wap8-custom-metaboxes.php:126
+#: lib/plugins/wap8-custom-metaboxes.php:136
+#: lib/plugins/wap8-custom-metaboxes.php:169
+#: lib/plugins/wap8-custom-metaboxes.php:179
+msgid "No"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:86 single-portfolio.php:92
+msgid "Production URL"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:87
+msgid ""
+"If there is an external URL associated with this project, enter it here. The "
+"theme will convert the URL into an anchor."
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:92
+msgid "Related Case Studies"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:93
+msgid "Would you like to list case studies similar to this one&#63;"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:102
+msgid "Related Case Heading"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:103
+msgid "Enter the heading for your related case studies."
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:105
+msgid "Similar Projects"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:113
+msgid "Gallery Portfolio Item&#58; jQuery Slideshow Settings"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:120
+#: lib/plugins/wap8-custom-metaboxes.php:163
+msgid "Enable Slideshow Autoplay"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:121
+#: lib/plugins/wap8-custom-metaboxes.php:164
+msgid "Should this slideshow begin playing automatically&#63;"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:130
+#: lib/plugins/wap8-custom-metaboxes.php:173
+msgid "Enable Slideshow Looping"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:131
+#: lib/plugins/wap8-custom-metaboxes.php:174
+msgid "Should this slideshow loop back to the first slide&#63;"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:140
+#: lib/plugins/wap8-custom-metaboxes.php:183
+msgid "Set Slideshow Timeout"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:141
+#: lib/plugins/wap8-custom-metaboxes.php:184
+msgid "Set the timeout duration, in milliseconds."
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:146
+#: lib/plugins/wap8-custom-metaboxes.php:189
+msgid "Set Animation Speed"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:147
+#: lib/plugins/wap8-custom-metaboxes.php:190
+msgid "Set the animation speed, in milliseconds."
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:156
+msgid "Gallery Post Format&#58; Select Gallery Type and Options"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:199
+msgid "Quote Post Format&#58; Enter Quote, Source and Link"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:206
+msgid "Quote"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:207
+msgid "Enter the quote for this post."
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:212
+msgid "Quote Author"
+msgstr ""
+
+#: lib/plugins/wap8-custom-metaboxes.php:213
+msgid ""
+"Enter the name of the author of this quote. Leave this field blank, if you "
+"do not wish to display a name."
+msgstr ""
+
+#: lib/plugins/wap8-password-form.php:25
+msgid ""
+"This post is password protected. To view it please enter your password below."
+msgstr ""
+
+#: lib/plugins/wap8-password-form.php:26
+msgid "Enter Password"
+msgstr ""
+
+#: lib/plugins/wap8-password-form.php:27
+msgid "Submit Password"
+msgstr ""
+
+#: lib/plugins/wap8-post-classes.php:33
+msgid "Blue Button"
+msgstr ""
+
+#: lib/plugins/wap8-post-classes.php:38
+msgid "Brown Button"
+msgstr ""
+
+#: lib/plugins/wap8-post-classes.php:43
+msgid "Chrome Button"
+msgstr ""
+
+#: lib/plugins/wap8-post-classes.php:48
+msgid "Green Button"
+msgstr ""
+
+#: lib/plugins/wap8-post-classes.php:53
+msgid "Orange Button"
+msgstr ""
+
+#: lib/plugins/wap8-post-classes.php:58
+msgid "Wine Button"
+msgstr ""
+
+#: lib/plugins/wap8-post-classes.php:63
+msgid "Half Column"
+msgstr ""
+
+#: lib/plugins/wap8-post-classes.php:69
+msgid "Half Column Last"
+msgstr ""
+
+#: lib/plugins/wap8-post-classes.php:75
+msgid "Third Column"
+msgstr ""
+
+#: lib/plugins/wap8-post-classes.php:81
+msgid "Third Column Middle"
+msgstr ""
+
+#: lib/plugins/wap8-post-classes.php:87
+msgid "Third Column Last"
+msgstr ""
+
+#: loop-audio.php:38 loop-gallery.php:85 loop-image.php:29 loop-quote.php:34
+#: loop-standard.php:38 loop-status.php:28 loop-video.php:28 search.php:65
+msgid "Posted by "
+msgstr ""
+
+#: loop-audio.php:38 loop-gallery.php:85 loop-image.php:29 loop-quote.php:34
+#: loop-standard.php:38 loop-status.php:28 loop-video.php:28 search.php:65
+msgid " on "
+msgstr ""
+
+#: loop-audio.php:40 loop-gallery.php:87 loop-image.php:31 loop-quote.php:36
+#: loop-standard.php:40 loop-video.php:26
+msgid "Continue Reading"
+msgstr ""
+
+#: loop-audio.php:48 loop-standard.php:48
+msgid "<span class=\"alignright\">Next Page &rarr;</span>"
+msgstr ""
+
+#: loop-audio.php:49 loop-standard.php:49
+msgid "<span class=\"alignleft\">&larr; Previous Page</span>"
+msgstr ""
+
+#: loop-audio.php:59 loop-gallery.php:92 loop-image.php:36 loop-quote.php:41
+#: loop-standard.php:59 loop-status.php:33 loop-video.php:33
+msgid "Posted in"
+msgstr ""
+
+#: loop-audio.php:66 loop-gallery.php:99 loop-image.php:43 loop-quote.php:48
+#: loop-standard.php:66 loop-status.php:40 loop-video.php:40
+msgid "Tagged"
+msgstr ""
+
+#: loop-audio.php:73 loop-gallery.php:106 loop-image.php:50 loop-quote.php:55
+#: loop-standard.php:73 loop-status.php:47 loop-video.php:47
+msgid "Comments"
+msgstr ""
+
+#: loop-audio.php:75 loop-gallery.php:108 loop-image.php:52 loop-quote.php:57
+#: loop-standard.php:75 loop-status.php:49 loop-video.php:49
+msgid "No comments"
+msgstr ""
+
+#: loop-audio.php:75 loop-gallery.php:108 loop-image.php:52 loop-quote.php:57
+#: loop-standard.php:75 loop-status.php:49 loop-video.php:49
+msgid "1 comment"
+msgstr ""
+
+#: loop-audio.php:75 loop-gallery.php:108 loop-image.php:52 loop-quote.php:57
+#: loop-standard.php:75 loop-status.php:49 loop-video.php:49
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: options.php:29
+msgid "None"
+msgstr ""
+
+#: options.php:30
+msgid "Grayscale"
+msgstr ""
+
+#: options.php:35
+msgid "Text Only"
+msgstr ""
+
+#: options.php:36
+msgid "Text + Background Image"
+msgstr ""
+
+#: options.php:37
+msgid "Text + Video"
+msgstr ""
+
+#: options.php:38
+msgid "Text + Video + Background Image"
+msgstr ""
+
+#: options.php:43
+msgid "Another Page"
+msgstr ""
+
+#: options.php:44
+msgid "Home Page Portfolio"
+msgstr ""
+
+#: options.php:49
+msgid "All Work with Filter"
+msgstr ""
+
+#: options.php:50
+msgid "All Work without Filter"
+msgstr ""
+
+#: options.php:51
+msgid "Featured Work"
+msgstr ""
+
+#: options.php:56
+msgid "Four &#40;4&#41;"
+msgstr ""
+
+#: options.php:57
+msgid "Eight &#40;8&#41;"
+msgstr ""
+
+#: options.php:58
+msgid "Twelve &#40;12&#41;"
+msgstr ""
+
+#: options.php:71
+msgid "Select a page:"
+msgstr ""
+
+#: options.php:91
+msgid "Global Settings"
+msgstr ""
+
+#: options.php:95
+msgid "Select an Alternate Style"
+msgstr ""
+
+#: options.php:96
+msgid ""
+"Select an alternate stylesheet. Select &#147;None&#148;, if you would like "
+"to use the default stylesheet or you are creating a custom child theme."
+msgstr ""
+
+#: options.php:103
+msgid "Website Logo"
+msgstr ""
+
+#: options.php:104
+msgid ""
+"Upload an image to use as your website&#146;s logo. The maximum width of "
+"your image should be 210px."
+msgstr ""
+
+#: options.php:109
+msgid "Website Favicon"
+msgstr ""
+
+#: options.php:110
+msgid "Upload an 16px x 16px image to use as your website&#146;s favicon."
+msgstr ""
+
+#: options.php:115
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: options.php:116
+msgid ""
+"Upload an 144px x 144px PNG image to use as your website&#146;s Apple Touch "
+"Icon."
+msgstr ""
+
+#: options.php:121
+msgid "Custom Default Gravatar"
+msgstr ""
+
+#: options.php:122
+msgid ""
+"Upload an image to use as your custom default gravatar. This image will be "
+"added to the default avatar list in your Discussion Settings. The "
+"recommended maximum dimensions are 100px x 100px."
+msgstr ""
+
+#: options.php:137
+msgid "Home Page Hero Settings"
+msgstr ""
+
+#: options.php:141
+msgid "Enable Home Page Hero Section"
+msgstr ""
+
+#: options.php:142
+msgid ""
+"Select this option to enable the home page hero section. Once enabled, you "
+"will able to customize the hero section in the following options."
+msgstr ""
+
+#: options.php:148
+msgid "Home Page Hero Section Type"
+msgstr ""
+
+#: options.php:149
+msgid ""
+"Select the type of home page hero section you would like for your website."
+msgstr ""
+
+#: options.php:156
+msgid "Home Page Hero Headline"
+msgstr ""
+
+#: options.php:157
+msgid "Enter your home page hero headline. HTML is not allowed."
+msgstr ""
+
+#: options.php:163
+msgid "Home Page Hero Text"
+msgstr ""
+
+#: options.php:164
+msgid ""
+"If you are displaying text only content, you can optionally include copy "
+"with your headline. Leave this option blank if you want to only show a "
+"headline. HTML is not allowed."
+msgstr ""
+
+#: options.php:170
+msgid "Enable Home Page Hero Button"
+msgstr ""
+
+#: options.php:171
+msgid ""
+"Select this option to enable the home page hero button. Once enabled, you "
+"will able to customize the button in the following options."
+msgstr ""
+
+#: options.php:177
+msgid "Home Page Hero Button Text"
+msgstr ""
+
+#: options.php:178
+msgid "Enter the text you would like for your home page hero button."
+msgstr ""
+
+#: options.php:184
+msgid "Home Page Hero Button Destination"
+msgstr ""
+
+#: options.php:185
+msgid ""
+"Select the destination for your home page hero button. If you choose &#147;"
+"Another Page&#148;, you will be able to select the page in the next option. "
+"If you choose &#147;Home Page Portfolio&#148;, you will need to enable the "
+"home page portfolio in the Home Page Portfolio Settings tab."
+msgstr ""
+
+#: options.php:192
+msgid "Select a Page for Home Hero Button"
+msgstr ""
+
+#: options.php:193
+msgid ""
+"Select the page you would like to be linked to your home page hero button. "
+"This option will only work, if you have chosen &#147;Another Page&#148; as "
+"your destination."
+msgstr ""
+
+#: options.php:200
+msgid "Home Page Hero Background Image"
+msgstr ""
+
+#: options.php:201
+msgid ""
+"Upload a image to use as the background for your home page hero section. The "
+"recommended aspect ratio is 16&#58;9 and the minimum recommended dimensions "
+"are 1280px x 720px."
+msgstr ""
+
+#: options.php:206
+msgid "Home Page Hero oEmbed Video"
+msgstr ""
+
+#: options.php:207
+msgid ""
+"Enter the oEmbed URL for your video. Only video services that support oEmbed "
+"are allowed. Leave this option blank if you are self hosting your video."
+msgstr ""
+
+#: options.php:213
+msgid "Home Page Hero M4V Video"
+msgstr ""
+
+#: options.php:214
+msgid "Enter the URL for your M4V video."
+msgstr ""
+
+#: options.php:220
+msgid "Home Page Hero OGV Video"
+msgstr ""
+
+#: options.php:221
+msgid "Enter the URL for your OGV video."
+msgstr ""
+
+#: options.php:227
+msgid "Home Page Hero WebMv Video"
+msgstr ""
+
+#: options.php:228
+msgid "Enter the URL for your WebMv video."
+msgstr ""
+
+#: options.php:234
+msgid "Home Page Hero Video Poster"
+msgstr ""
+
+#: options.php:235
+msgid ""
+"Upload a image to use as poster image for your self hosted video. The "
+"recommended aspect ratio is 16:9"
+msgstr ""
+
+#: options.php:250
+msgid "Home Page Portfolio Settings"
+msgstr ""
+
+#: options.php:254
+msgid "Enable Home Page Portfolio"
+msgstr ""
+
+#: options.php:255
+msgid ""
+"Select this option to enable your home page portfolio. Once enabled, you "
+"will be able to select the type of portfolio to display, how many items to "
+"display and enter a heading."
+msgstr ""
+
+#: options.php:261
+msgid "Select Home Portfolio Type"
+msgstr ""
+
+#: options.php:262
+msgid ""
+"Select the type of portfolio you would like to display on your home page. "
+"The &#147;All Work&#148; options are best suited for websites without a home "
+"page hero section. <strong>If you choose either of the &#147;All Work&#148; "
+"options, your home page will become your portfolio page and you should not "
+"create a custom portfolio page.</strong>"
+msgstr ""
+
+#: options.php:269
+msgid "Featured Portfolio Items"
+msgstr ""
+
+#: options.php:270
+msgid ""
+"If you have chosen to show your featured work on your home page, select the "
+"amount of featured portfolio items to display."
+msgstr ""
+
+#: options.php:277
+msgid "Home Page Portfolio Header"
+msgstr ""
+
+#: options.php:278
+msgid "Enter the text you would like for your home page portfolio header."
+msgstr ""
+
+#: options.php:280 options.php:344
+msgid "Browse our Work"
+msgstr ""
+
+#: options.php:294
+msgid "Home Blog Settings"
+msgstr ""
+
+#: options.php:298
+msgid "Enable Home Page Blog Posts"
+msgstr ""
+
+#: options.php:299
+msgid ""
+"Select this option to enable your home page blog posts. Once enabled, you "
+"will be able to select the category to display and enter a heading."
+msgstr ""
+
+#: options.php:305
+msgid "Home Page Blog Header"
+msgstr ""
+
+#: options.php:306
+msgid "Enter the text you would like for your home page blog header."
+msgstr ""
+
+#: options.php:312
+msgid "Home Page Blog Category"
+msgstr ""
+
+#: options.php:313
+msgid ""
+"Select the category for your home page blog post. A total of three of your "
+"most recent posts, from this category, will be displayed."
+msgstr ""
+
+#: options.php:330
+msgid "Portfolio Settings"
+msgstr ""
+
+#: options.php:334
+msgid "Enable Portfolio Filtering"
+msgstr ""
+
+#: options.php:335
+msgid ""
+"Select this option to enable the filtering navigation on your portfolio "
+"page. Once enabled, your visitors will be able to filter your portfolio "
+"based on the services you have created. <strong>If you have decided to show "
+"all of your portfolio items on the home page, do not create a portfolio "
+"page. Your home page will be your portfolio page.</strong>"
+msgstr ""
+
+#: options.php:341
+msgid "Portfolio Header"
+msgstr ""
+
+#: options.php:342
+msgid ""
+"Enter the text you would like for the header on the portfolio page. This "
+"text will appear above the thumbnail grid of your portfolio. Leave this "
+"option blank, if you do not wish to have a heading for your portfolio."
+msgstr ""
+
+#: options.php:358
+msgid "Footer Settings"
+msgstr ""
+
+#: options.php:362
+msgid "Enable Callout Section"
+msgstr ""
+
+#: options.php:363
+msgid ""
+"Select this option to enable the callout section of your website. Once "
+"enabled, this section will appear on every page of your website, except for "
+"the Contact Page, about the footer."
+msgstr ""
+
+#: options.php:369
+msgid "Callout Header"
+msgstr ""
+
+#: options.php:370
+msgid "Enter the text you would like for your callout header."
+msgstr ""
+
+#: options.php:376
+msgid "Callout Text"
+msgstr ""
+
+#: options.php:377
+msgid "Enter your callout text. HTML is not allowed."
+msgstr ""
+
+#: options.php:383
+msgid "Callout Button Text"
+msgstr ""
+
+#: options.php:384
+msgid "Enter the text you would like for your callout button."
+msgstr ""
+
+#: options.php:390
+msgid "Select a Page for Callout Button Link"
+msgstr ""
+
+#: options.php:391
+msgid "Select the page you would like to use for your callout button link."
+msgstr ""
+
+#: options.php:398
+msgid "Footer Links Header"
+msgstr ""
+
+#: options.php:399
+msgid "Enter the text you would like for your footer links header."
+msgstr ""
+
+#: options.php:401
+msgid "Navigate"
+msgstr ""
+
+#: options.php:405
+msgid "Social Links Header"
+msgstr ""
+
+#: options.php:406
+msgid "Enter the text you would like for your social links header."
+msgstr ""
+
+#: options.php:408
+msgid "Socialize"
+msgstr ""
+
+#: options.php:414
+msgid "Support"
+msgstr ""
+
+#: options.php:417
+msgid "Theme Documentation & Support"
+msgstr ""
+
+#: options.php:418
+msgid ""
+"Theme support and documentation is available for all ThemeForest customers. "
+"Visit <a target=\"blank\" href=\"http://designcrumbstoo.ticksy.com\">http://"
+"designcrumbstoo.ticksy.com</a>."
+msgstr ""
+
+#: options.php:422
+msgid "Changelog"
+msgstr ""
+
+#: options.php:425
+msgid "Help File"
+msgstr ""
+
+#: options.php:428
+msgid "Theme Support"
+msgstr ""
+
+#: options.php:431
+msgid "Customization Request"
+msgstr ""
+
+#: options.php:435
+msgid "More Themes by Design Crumbs"
+msgstr ""
+
+#: search.php:25 search.php:103
+msgid "Search results for "
+msgstr ""
+
+#: search.php:33
+msgid "results"
+msgstr ""
+
+#: search.php:37
+msgid "result"
+msgstr ""
+
+#: search.php:41
+msgid "Found "
+msgstr ""
+
+#: search.php:41
+msgid " possible "
+msgstr ""
+
+#: search.php:41
+msgid " matching your query."
+msgstr ""
+
+#: search.php:53
+msgid "Browsing page "
+msgstr ""
+
+#: search.php:53
+msgid " of "
+msgstr ""
+
+#: search.php:65
+msgid " in "
+msgstr ""
+
+#: search.php:105
+msgid "Found no possible results."
+msgstr ""
+
+#: search.php:116
+msgid ""
+"Unfortunately, we could not find any results for your search query. Perhaps "
+"the following suggestions can be helpful."
+msgstr ""
+
+#: search.php:119
+msgid "Make sure all of your keywords are spelled correctly."
+msgstr ""
+
+#: search.php:120
+msgid "Try fewer keywords."
+msgstr ""
+
+#: search.php:121
+msgid "Try using general keywords."
+msgstr ""
+
+#: searchform.php:17
+msgid "Search Form"
+msgstr ""
+
+#: searchform.php:18
+msgid "Enter keyword&#40;s&#41;"
+msgstr ""
+
+#: single-portfolio.php:79
+msgid "Client"
+msgstr ""
+
+#: single-portfolio.php:122 single-portfolio.php:124
+msgid "Portfolio"
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:27
+msgid "Display your contact information in your sidebar."
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:35
+msgid "Contact Widget"
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:59
+msgid "<strong>Phone: </strong>"
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:65
+msgid "<strong>Fax: </strong>"
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:71
+msgid "<strong>Email: </strong>"
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:103
+msgid ""
+"Use this widget to display your contact information. The <code>textarea</"
+"code> will process arbitrary HTML."
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:105
+msgid "Example Address Entry:"
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:107
+msgid ""
+"&lt;p&gt;7510 Sunsent Boulevard, Suite 1421&lt;br /&gt;Hollywood, CA "
+"90046&lt;br/&gt;United States&lt;/p&gt;"
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:115
+msgid "Address"
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:120
+msgid "Your Phone Number"
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:125
+msgid "Your Fax Number"
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:130
+msgid "Your Email Address"
+msgstr ""
+
+#: widgets/wap8-widget-contact.php:131
+msgid ""
+"To avoid spam bots, enter your email address replacing the &#64; symbol with "
+"the English word, &#147;at&#148;. <strong>Example:</strong> hello at "
+"designcrumbs.com"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Sans"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themes.designcrumbs.com/sans"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Sans is a responsive premium WordPress portfolio theme that is highly "
+"customizable. Tailor Sans to your needs with 6 custom widgets, 2 page "
+"templates, streaming video and audio integration and a host of theme options "
+"to personalize your environment. To begin seting up your copy of Sans, click "
+"on the Theme Options link."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jake Caputo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.designcrumbs.com/"
+msgstr ""
